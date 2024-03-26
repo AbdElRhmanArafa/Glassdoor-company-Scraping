@@ -50,3 +50,8 @@ This Python script is designed to scrape company information from Glassdoor, inc
 **Disclaimer:**
 - This script is intended for educational purposes only.
 - Make sure to respect Glassdoor's terms of service and use this script responsibly.
+
+
+**Note**
+- to use cleaning script you need to run companies-Scraper.py first than take output file a path and use it in cleaning script
+- you should change string connection in clean file 
